@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on [AMReX](https://amrex-codes.github.io/amrex), [MKL](https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl.html), [cuSPARSE](https://docs.nvidia.com/cuda/cusparse)
 
-- 📫 How to reach me **johnnycorbino@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/johnnycorbino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnnycorbino" height="30" width="40" /></a>
