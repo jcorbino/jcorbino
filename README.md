@@ -5,9 +5,9 @@
 
 <h3 align="left">About me:</h3>
 
-- 🙋 I'm a passionate Computer Scientist with solid mathematical background
+- 🙋 I'm a passionate Computer Scientist with a solid mathematical background
 
-- 🔭 I’m currently working on [UPC++](https://bitbucket.org/berkeleylab/upcxx/wiki/Home) at LBNL
+- 🔭 I’m currently working on [UPC++](https://bitbucket.org/berkeleylab/upcxx/wiki/Home) at Lawrence Berkeley National Laboratory
 
 - 🌱 I’m currently learning **Haskell (just for fun)**
 
