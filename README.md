@@ -7,7 +7,7 @@
 
 - 🙋 I'm a passionate Computer Scientist with a solid mathematical background
 
-- 🔭 I’m currently working on [UPC++](https://bitbucket.org/berkeleylab/upcxx/wiki/Home) at Lawrence Berkeley National Laboratory
+- 🔭 I previously worked on [UPC++](https://bitbucket.org/berkeleylab/upcxx/wiki/Home) at Lawrence Berkeley National Laboratory
 
 - 🌱 I’m currently learning **Haskell (just for fun)**
 
